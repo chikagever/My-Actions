@@ -2,7 +2,7 @@
 <h1 align="center">My-Actions</h1>
 </div>
 
-# 使用方式
+# 使用方式 
 
 1. 右上角 fork 本仓库 
 2. 点击 Settings -> Secrets -> 点击绿色按钮 (如无绿色按钮说明已激活。直接到第三步。)
