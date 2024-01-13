@@ -47,5 +47,6 @@ jobs:
       - name: Start Sign
         env:
           BDUSS: ${{ secrets.BDUSS }}
+          
         run: poetry run python app/tieba.py
  
